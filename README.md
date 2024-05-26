@@ -1,5 +1,5 @@
 <img src="https://github.com/Idzanamix/MirrorReddit/assets/161015715/bc804b37-484c-4921-9faa-05acc33a4178" width="60" />Hello everyone! This is my My LogicLike mini project (TS, JS, Babel, Jest, Webpack) version. 
-I have developed an application to show my skills as a frontend (React, Node JS) software engineer.
+I have developed an application to show my skills as a frontend React software engineer.
 
 ![Static Badge](https://img.shields.io/badge/Idzanamix-logiclike-logiclike)
 ![GitHub top language](https://img.shields.io/github/languages/top/Idzanamix/logiclike)
