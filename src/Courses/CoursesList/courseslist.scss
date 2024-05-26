@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  margin-right: -18px;
+  margin-left: 288px;
+}
+
+@media(max-width: 768px) {
+  .list {
+    margin-left: calc(288px - 64px);
+  }
+}

@@ -1,0 +1,28 @@
+.sidebar {
+  padding: 12px;
+  border: 1px solid var(--border);
+  background: var(--background);
+  min-width: 264px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 18px;
+  align-self: start;
+  position: fixed;
+}
+
+.link {
+  padding: 12px;
+  border-radius: 12px;
+  background: var(--background);
+  transition: color .15s ease-in-out, background-color .15s ease-in-out;
+
+  &:hover {
+    color: var(--selectedBackground);
+  }
+}
+
+@media(max-width: 768px) {
+  .sidebar {
+    min-width: 200px;
+  }
+}

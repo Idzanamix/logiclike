@@ -1,0 +1,39 @@
+@mixin flex() {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+@mixin color() {
+  color: var(--text);
+  text-align: center;
+  text-shadow: 1px 1px 1px var(--text);
+  font-size: 30px;
+}
+
+.error {
+  @include flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  padding-top: 20px;
+}
+
+.image {
+  border-radius: 15px;
+  width: 100%;
+}
+
+.container {
+  @include flex;
+}
+
+.descr {
+  @include color;
+  margin-bottom: 10px;
+}
+
+.message {
+  @include color;
+  background-color: var(--background);
+}
