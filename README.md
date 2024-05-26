@@ -73,9 +73,3 @@ npm run test
 ```bash
 npm run test-watch
 ```
-
-### Running all tests using coverage mode
-
-```bash
-npm run test-coverage
-```
