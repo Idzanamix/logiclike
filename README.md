@@ -6,18 +6,6 @@ I have developed an application to show my skills as a frontend (React, Node JS)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Idzanamix/logiclike)
 ![GitHub issues](https://img.shields.io/github/issues/Idzanamix/logiclike)
 
-
-<div>
-<img src="https://github.com/Idzanamix/MirrorReddit/assets/161015715/bc804b37-484c-4921-9faa-05acc33a4178" width="60" />
-In my https://reddinamix.fun, I have implemented:
-</div>
-
-1) [React-window](https://www.npmjs.com/package/react-window) (infinite content loading). I've optimized it to avoid unnecessary re-renders, so the images in the content do not "blink" after loading.
-2) [React-redux](https://www.npmjs.com/package/react-redux) and [Redux-persist](https://www.npmjs.com/package/redux-persist)
-3) [React-router-dom](https://www.npmjs.com/package/react-router-dom)
-4) [Axios](https://www.npmjs.com/package/axios)
-   and much more...
-
 ## Run some command from list:
 
 ### Bundling in DEV environment with response to changes in config
