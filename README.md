@@ -1,10 +1,10 @@
 Hello everyone! This is my My LogicLike mini project (TS, JS, Babel, Jest, Webpack) version. 
 I have developed an application to show my skills as a frontend (React, Node JS) software engineer.
 
-![Static Badge](https://img.shields.io/badge/Idzanamix-MirrorReddit-MirrorReddit)
-![GitHub top language](https://img.shields.io/github/languages/top/Idzanamix/MirrorReddit)
-![GitHub Repo stars](https://img.shields.io/github/stars/Idzanamix/MirrorReddit)
-![GitHub issues](https://img.shields.io/github/issues/Idzanamix/MirrorReddit)
+![Static Badge](https://img.shields.io/badge/Idzanamix-logiclike-logiclike)
+![GitHub top language](https://img.shields.io/github/languages/top/Idzanamix/logiclike)
+![GitHub Repo stars](https://img.shields.io/github/stars/Idzanamix/logiclike)
+![GitHub issues](https://img.shields.io/github/issues/Idzanamix/logiclike)
 
 
 <div>
